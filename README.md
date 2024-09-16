@@ -18,4 +18,12 @@ Here are some ideas to get you started:
 My name is **Devita Ayu Maharani**<br>
 I'm currently working as student of **Sebelas Maret University** at Informatics major.
 
-You can visit my [LinkedIn](https://www.linkedin.com/in/devita-maharani-474bab278/) if you are curious about me! ^^
+You can visit my [LinkedIn](https://www.linkedin.com/in/devita-maharani-474bab278/) if you are curious about me!
+
+## GitHub Statistic
+<p align="left">
+<a href="https://github.com/devi-am">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=devi-am&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=devi-am&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
