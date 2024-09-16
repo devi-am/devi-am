@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 My name is **Devita Ayu Maharani**<br>
-I'm currently working as student at **Sebelas Maret University** at Informatics major.
+I'm currently working as student of **Sebelas Maret University** at Informatics major.
 
-You can visit my [LinkedIn](https://www.linkedin.com/in/devita-maharani-474bab278/) if you are curious about me!
+You can visit my [LinkedIn](https://www.linkedin.com/in/devita-maharani-474bab278/) if you are curious about me! ^^
