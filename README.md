@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 <!--
 **devi-am/devi-am** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 My name is **Devita Ayu Maharani**<br>
 I'm currently working as student of **Sebelas Maret University** at Informatics major.<br>
 
-# About Me
+## About Me
 💻 interested in machine learning and web developer<br>
 👀 visit my [LinkedIn](https://www.linkedin.com/in/devita-maharani-474bab278/) if you are curious about me!
 
